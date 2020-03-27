@@ -1,0 +1,14 @@
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\rent a car.exe.config
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\rent a car.exe
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\rent a car.pdb
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Form1.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.exe
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.pdb
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.loginpage.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.KiralamaIslemleri.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.MusteriIslemleri.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.AracIslemleri.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Ayarlar.resources
